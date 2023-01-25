@@ -1,14 +1,13 @@
-# 𝗦𝗛𝗔𝗥𝗔𝗦𝗔 𝗠𝗨𝗦𝗜𝗖  🇪🇬🇪🇬🇪🇬 
- 
-## • Source updates : @BBTBB
-
-
-## • DEV : SHARASA 
-
-## • DEV : ZEKO 
-
-
-# لتنصيب  
-
-
+# لتنصيب Installation
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/DEVZEKO/music.git)
+  
+
+##INFORMATION:
+## NAME    -   AHMED MOHAMED (ZEKO)  
+## Akash   -   +201030093285
+## FACEBOOK-   AHMEDZEKO1O
+## DM      -   @ZEKO_EG
+## CH      -   @GOERMASR
+
+
+## THANK YOU ❤️
